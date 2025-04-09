@@ -1,10 +1,10 @@
 # Norbert Ndungutse's Portfolio
 
-Welcome to my personal portfolio! This website is built using GitHub Pages, and here, you can explore my professional background, skills, and projects.
+Welcome to my personal portfolio! You are always welcome to my website, and here, you can explore my professional background, skills, and projects.
 
 ## About Me
 
-Hi, I'm **Norbert Ndungutse** – a passionate **data scientist**, **academic writer**, and **tech enthusiast**. With over **5 years of experience** in data analysis, academic research, and e-commerce, I specialize in **statistical analysis**, **machine learning**, and **data visualization**. I am also experienced in **SPSS**, **Python**, **R**, and **SQL**, and I am always learning new techniques to refine my skills.
+Hi, I'm **Norbert Ndungutse** – a passionate **data scientist**, **academic writer**, and **tech enthusiast**. With over **5 years of experience** in data analysis, academic research, and e-commerce, I specialize in **statistical analysis**, **machine learning**, and **data visualization**. I am also experienced in **SPSS**, **Python**, **R**, and **SQL**
 
 I believe in making data-driven decisions and developing innovative solutions to complex problems. My journey has equipped me with the knowledge to analyze large datasets, design research studies, and build digital products, including websites and e-commerce platforms.
 
