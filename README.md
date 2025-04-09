@@ -21,17 +21,17 @@ I believe in making data-driven decisions and developing innovative solutions to
 
 Here are some of the key projects that showcase my skills and expertise:
 
-### 1. **[Research Paper on Data Science](docs/project-1.pdf)**
-   - Description: A detailed research paper exploring the latest trends and methodologies in data science.
+### 1. **[Research Paper on Project planning and Management](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNorbert-Ndungutse%2Fnorbertndungutse.github.io%2Frefs%2Fheads%2Fmain%2FMasters%2520thesis%2Ftugume_Davis%2520%2520Finnal%2520coppy%2520for%2520submision.docx&wdOrigin=BROWSELINK)**
+   - Description: A detailed research paper exploring the latest trends on Project Planning and Management.
    - Format: PDF
    - Skills Used: Data analysis, research writing.
 
-### 2. **[Marketing Strategy Proposal](docs/project-2.docx)**
+### 2. **[Human Resource Thesis](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNorbert-Ndungutse%2Fnorbertndungutse.github.io%2Frefs%2Fheads%2Fmain%2FMasters%2520thesis%2FIBRAHIM%2520DUALE%2520THESIS%2520SEP.docx&wdOrigin=BROWSELINK)**
    - Description: A proposal for a marketing strategy aimed at improving customer acquisition and retention for a mid-sized company.
    - Format: Word Document
    - Skills Used: Marketing analysis, strategic planning.
 
-### 3. **[Business Plan for E-commerce](docs/project-3.pdf)**
+### 3. **[Psychology and Counselling Thesis](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNorbert-Ndungutse%2Fnorbertndungutse.github.io%2Frefs%2Fheads%2Fmain%2FMasters%2520thesis%2FHALILA%2520SITTA%2520THESIS%2520PROPOSAL-23%2520111.docx&wdOrigin=BROWSELINK)**
    - Description: A comprehensive business plan for a new e-commerce startup, including market analysis and financial projections.
    - Format: PDF
    - Skills Used: E-commerce development, business strategy.
@@ -41,7 +41,7 @@ Here are some of the key projects that showcase my skills and expertise:
    - Format: GitHub Pages website
    - Skills Used: Web development, GitHub Pages, HTML/CSS.
 
-### 5. **[Data Analysis Projects](docs/project-4.pdf)**
+### 5. **[Data Sets of spss]()**
    - Description: A collection of data analysis projects where I applied statistical models to real-world data.
    - Format: PDF
    - Skills Used: Data science, statistical modeling.
