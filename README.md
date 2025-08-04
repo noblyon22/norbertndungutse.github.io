@@ -1,7 +1,6 @@
 # Norbert Ndungutse's Portfolio
 
-Welcome to my personal portfolio! You are always welcome to my website, and here, you can explore my professional background, skills, and projects.
-
+Welcome to my personal portfolio! I am a Data Analyst and SPSS expert passionate about turning data into clear, actionable insights. With strong communication skills, I simplify complex information to help organizations make informed decisions. My work reflects a commitment to continuous learning and delivering results that drive positive change.
 ## About Me
 
 Hi, I'm **Norbert Ndungutse** – a passionate **data scientist**, **academic writer**, and **tech enthusiast**. With over **5 years of experience** in data analysis, academic research, and e-commerce, I specialize in **statistical analysis**, **machine learning**, and **data visualization**. I am also experienced in **SPSS**, **Python**, **R**, and **SQL**
