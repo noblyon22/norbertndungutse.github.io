@@ -4,18 +4,23 @@ Welcome to my personal portfolio! You are always welcome to my website, and here
 
 ## About Me
 
-Hi, I'm **Norbert Ndungutse** – a passionate **data scientist**, **academic writer**, and **tech enthusiast**. With over **5 years of experience** in data analysis, academic research, and e-commerce, I specialize in **statistical analysis**, **machine learning**, and **data visualization**. I am also experienced in **SPSS**, **Python**, **R**, and **SQL**
+Hi, I'm **Norbert Ndungutse** — a passionate **Data Scientist**, **Academic Writer**, and **Tech Enthusiast** with over **5 years of experience** in **data analysis**, **research writing**, and **e-commerce**.  
 
-I believe in making data-driven decisions and developing innovative solutions to complex problems. My journey has equipped me with the knowledge to analyze large datasets, design research studies, and build digital products, including websites and e-commerce platforms.
+I specialize in **statistical analysis**, **machine learning**, and **data visualization**, with hands-on expertise in **Python, R, SQL, and SPSS**. I’ve worked on projects involving **predictive modeling, CNN image classification, database design**, and **interactive dashboards** using Power BI and Python frameworks.  
+
+I’m driven by a love for **data-driven decision-making** and **innovation**, transforming raw data into actionable insights and intelligent digital solutions. My background also includes designing **web applications and e-commerce platforms**, combining analytical thinking with creative problem-solving.  
+
 
 ## My Skills
 
-- **Data Science**: Statistical analysis, data mining, and machine learning.
-- **Programming**: Python, R, SQL, Excel.
-- **Data Analysis Tools**: IBM SPSS, Excel, Python (Pandas, NumPy, Matplotlib).
-- **Web Development**: HTML, CSS, JavaScript, GitHub Pages.
-- **E-commerce**: Digital marketing, SEO, and web design.
-- **Research Writing**: Academic research, proposal writing, literature reviews, and dissertations.
+- **Data Science & Analytics:** Expertise in statistical analysis, data mining, exploratory data analysis (EDA), and machine learning model development.  
+- **Programming Languages:** Proficient in **Python, R, SQL, and Excel** for data manipulation, automation, and reporting.  
+- **Data Analysis Tools:** Experienced with **IBM SPSS, Power BI**, and Python libraries (**Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow**).  
+- **Web Development:** Skilled in **HTML, CSS, JavaScript**, and **Python frameworks** (Flask, Streamlit, Dash) for building interactive dashboards and deploying web apps.  
+- **AI & Model Deployment:** Hands-on experience building and deploying **predictive AI models**, including regression, CNNs, and XGBoost.  
+- **E-commerce & Digital Strategy:** Background in **digital marketing, SEO, and web design**, applying data-driven insights to improve engagement and ROI.  
+- **Research & Technical Writing:** Strong in **academic research, proposal drafting, literature reviews, and dissertations**, integrating data analytics into research contexts.  
+
 
 ## Projects
 
@@ -45,6 +50,11 @@ Here are some of the key projects that showcase my skills and expertise:
    - Description: A collection of data analysis projects where I applied statistical models to real-world data.
    - Format: PDF
    - Skills Used: Data science, statistical modeling.
+### 6. [Notebooks for the models I trained]
+    - Property Price Prediction Web App: Built a complete web application that predicts property prices using a deployed regression model and Flask framework.
+	 - CNN Image Classification Model: Trained a convolutional neural network to classify image data with strong model accuracy.
+	 - Machine Learning Model Evaluation: Trained and compared algorithms (Decision Tree, Random Forest, Logistic Regression, XGBoost), with XGBoost outperforming all others.
+	 - Exploratory Data Analysis (EDA): Conducted advanced EDA using Python (Pandas, Seaborn, Matplotlib) to derive actionable insights from raw datasets.
 
 ## How to Navigate My Portfolio
 
