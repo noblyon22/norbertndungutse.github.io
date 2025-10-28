@@ -43,9 +43,11 @@ Here are some of the key projects that showcase my skills and expertise:
 
 ### 5. **[Data Sets of spss]()**
    - Description: A collection of data analysis projects where I applied statistical models to real-world data.
-   - Format: PDF
    - Skills Used: Data science, statistical modeling.
-
+### 6. **[Notebooks I trained]()**
+   - collection of data science projects where I applied statistical and machine learning models to real-world datasets to uncover insights, build predictive systems, and develop data-driven solutions.
+   - Format: Notebook
+   - Skills Used: Data science, statistical modeling.
 ## How to Navigate My Portfolio
 
 - **Portfolio Website**: [Visit my personal portfolio](https://norbertndungutse.github.io).
