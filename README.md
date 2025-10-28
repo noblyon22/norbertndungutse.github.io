@@ -10,12 +10,16 @@ I believe in making data-driven decisions and developing innovative solutions to
 
 ## My Skills
 
-- **Data Science**: Statistical analysis, data mining, and machine learning.
-- **Programming**: Python, R, SQL, Excel.
-- **Data Analysis Tools**: IBM SPSS, Excel, Python (Pandas, NumPy, Matplotlib).
-- **Web Development**: HTML, CSS, JavaScript, GitHub Pages.
-- **E-commerce**: Digital marketing, SEO, and web design.
-- **Research Writing**: Academic research, proposal writing, literature reviews, and dissertations.
+Data Analytics & Visualization: Power BI, Excel, Tableau
+Programming Languages: Python, SQL, R, JavaScript, HTML, CSS
+Machine Learning & AI: Regression, Classification, CNNs, XGBoost, Predictive Analytics
+Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+Database Design & Management: MySQL, SQLite, PostgreSQL
+Web Application Development: Python (Flask, Streamlit, Dash) JavaScript, HTML, CSS
+Data Cleaning & Feature Engineering: Python, Excel, SPSS
+Version Control: Git, GitHub
+Cloud Tools: Google Colab, Jupyter Notebook and Kaggle
+
 
 ## Projects
 
@@ -45,7 +49,7 @@ Here are some of the key projects that showcase my skills and expertise:
    - Description: A collection of data analysis projects where I applied statistical models to real-world data.
    - Format: PDF
    - Skills Used: Data science, statistical modeling.
-
+### 6. My notebooks for the trained models and one of my deployed web app for my model are in Github
 ## How to Navigate My Portfolio
 
 - **Portfolio Website**: [Visit my personal portfolio](https://norbertndungutse.github.io).
